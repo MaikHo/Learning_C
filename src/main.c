@@ -229,7 +229,7 @@ int main(int argc, char *argv[])
     //teststring();
     //zeiger();
     //teststruct();
-    txt();
+    //txt();
 
 
     //printf("Hello, world!\n");
